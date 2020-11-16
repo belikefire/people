@@ -1,0 +1,40 @@
+{
+  "people": [
+    {
+      "name": "Aaron",
+      "email": "aaron@gmail.com",
+      "mobile_number": "09999999999",
+      "address": "Santolan, Pasig City",
+      "friends": [
+        "ann",
+        "lisa",
+        "george",
+        "kim"
+      ]
+    },
+    {
+      "name": "Jenry",
+      "email": "Jenry@gmail.com",
+      "mobile_number": "099991239999",
+      "address": "Rosario, Pasig City",
+      "friends": [
+        "gelo",
+        "jun",
+        "ann",
+        "risa"
+      ]
+    },
+    {
+      "name": "Anthony",
+      "email": "anthony@gmail.com",
+      "mobile_number": "09999999919",
+      "address": "Cainta, Rizal",
+      "friends": [
+        "Rachelle",
+        "kim",
+        "test1",
+        "test2"
+      ]
+    }
+  ]
+}
